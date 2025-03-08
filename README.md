@@ -48,3 +48,12 @@ export default tseslint.config({
   },
 })
 ```
+
+# Preview
+
+![GameHub homePage.png](https://s2.loli.net/2025/03/08/EOksmProlBcRX8T.png)
+
+![GameHub gameDetial.png](https://s2.loli.net/2025/03/08/zAPa3jDqUb6nkQB.png)
+
+![GameHub gameDetialPhone.png](https://s2.loli.net/2025/03/08/vNUEscVFnH4PRLw.png)
+
